@@ -1,0 +1,47 @@
+body {
+    background-image: url(tropical-green-leaves-background.jpg);
+    background-size: 100%;
+    background-repeat: repeat-y;
+    color: olivedrab;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 1.2em;
+    font-style: italic;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    line-height: 30px;
+    text-align:center;
+
+
+
+}
+
+form {
+    background-color:darkseagreen; 
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+
+h1{
+    color: hwb(0 100% 0%);
+}
+
+
+.cabecalho{
+
+    background-color: rgba(6, 6, 6, 0.127);
+    justify-content: center;
+    position: fixed;
+    display: flex;
+    width: 100%;
+    bottom: 0vh;
+    left: 0;
+    text-align: center;
+    padding: 5px;
+    color: olivedrab;
+    
+}
+
+a{
+    color: antiquewhite;
+}
